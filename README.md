@@ -1,8 +1,8 @@
 <h3 align="center">Faculty of Informatics, Brno University of Technology student, cybersecurity and electronical engineering</h3>
 
-- 🔭 I’m currently working on **Finishing fcking school**
+- 🔭 I’m currently working on **Finishing school**
 
-- 🌱 I’m currently learning **C**
+- 🌱 Currently learning **C** and radio devices for fun.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
