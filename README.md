@@ -4,14 +4,14 @@ I'm studying Computer Science at Brno University of Technology and have a passio
 
 ---
 
-### 🔭 Currently Working On
+### Currently Working On
 
 #### NRF24L01+ Driver (ESP32)
 Developing a custom C driver using ESP-IDF to move beyond Arduino abstractions. Exploring the feasibility of low-cost RF spectrum scanning and FHSS-based drone detection, while working around the practical limitations of the nRF24L01+ for this type of application.
 
 ---
 
-### 🛠️ Projects & Hobbies
+### Projects & Hobbies
 
 - **Embedded Systems:** ESP32, FreeRTOS, and low-level C programming  
 - **Automation:** Built a Python-based marketplace scraper to automate the hunt for car deals  
@@ -19,20 +19,20 @@ Developing a custom C driver using ESP-IDF to move beyond Arduino abstractions. 
 
 ---
 
-### 🌱 I’m Currently Learning
+### I’m Currently Learning
 
 - **Advanced C programming** (both academically and for embedded/IoT development)  
 - **Python scripting** to simplify everyday tasks
 
 ---
 
-### 👯 I’m Looking to Collaborate On
+### I’m Looking to Collaborate On
 
 - **Open-source projects**, especially beginner-friendly issues, to gain real-world and industry-standard development experience
 
 ---
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jakub_ferencik) 
 
 ---
