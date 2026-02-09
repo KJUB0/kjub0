@@ -15,7 +15,6 @@ Developing a custom C driver using ESP-IDF to move beyond Arduino abstractions. 
 
 - **Embedded Systems:** ESP32, FreeRTOS, and low-level C programming  
 - **Automation:** Built a Python-based marketplace scraper to automate the hunt for car deals  
-- **Hardware Design:** Avid 3D printing enthusiast; I design and print custom functional enclosures for my electronics projects
 
 ---
 
